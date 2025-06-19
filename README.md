@@ -1,6 +1,6 @@
 **Тугушева Элина Олеговна**   
   **Python-разработчик**  
-![2024-09-09 11-04-59](https://github.com/user-attachments/assets/66200b97-7bfe-4966-af8b-35c378b54d14){: .right-align }
+![2024-09-09 11-04-59](https://github.com/user-attachments/assets/66200b97-7bfe-4966-af8b-35c378b54d14)  
         _32 года_  
       _г. Екатеринбург_  
 Красиво, просто и понятно  
